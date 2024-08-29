@@ -1,4 +1,4 @@
-# This project is a Windows Forms application that connects to a local database for data storage. The application was developed using Microsoft Visual Studio and SQLite Studio.
+# This project is a Phone Catalog created using Windows Forms application that connects to a local database for data storage. The application was developed using Microsoft Visual Studio and SQLite Studio.
  
 ## Main Features: Upon launching the application, the user is presented with the following options on the main screen:
 
